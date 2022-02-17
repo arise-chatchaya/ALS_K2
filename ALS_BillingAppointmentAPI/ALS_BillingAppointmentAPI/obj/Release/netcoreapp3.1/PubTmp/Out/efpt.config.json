@@ -1,0 +1,126 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "K2_Billing_AppointmentContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "DB",
+   "ProjectRootNamespace": "ALS_BillingAppointmentAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[TB_M_Credit_Term]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_M_Delivery_Type]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_M_HOLIDAYS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_M_STATUS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_R_BA]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_R_CB_BA]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_R_CB_INVOICE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_R_CB_PACKAGE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_R_INVOICE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_R_PACKAGE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_S_BillingAppointmentReportData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_S_BillingData]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_S_CONFIG]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TB_S_InvoiceHeader]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[vBillingAppointment]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vBillingAppointment_BillToCompany]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vCB_BillingAppointment]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vCB_PackageList]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vPackage]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vPackageList]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[usp_AdhocListInvoiceByInvoiceAddress]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_CriteriaSearchBillingAppointment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_GetNewRunningNo]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "ARISE-001\\SQLEXPRESS.K2_Billing_Appointment",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

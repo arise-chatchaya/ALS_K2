@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALS_BillingAppointmentAPI", "ALS_BillingAppointmentAPI\ALS_BillingAppointmentAPI.csproj", "{03C6FEFC-C47F-4B45-84C5-7A08A1DB53BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C6FEFC-C47F-4B45-84C5-7A08A1DB53BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C6FEFC-C47F-4B45-84C5-7A08A1DB53BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C6FEFC-C47F-4B45-84C5-7A08A1DB53BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C6FEFC-C47F-4B45-84C5-7A08A1DB53BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB21ACF-5476-47D8-9F82-20689792A694}
+	EndGlobalSection
+EndGlobal
